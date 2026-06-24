@@ -100,3 +100,7 @@ The value screen surfaces predominantly Consumer Discretionary companies in trad
 ## What I Learned
 
 Working with real financial data reinforced how much context matters in interpretation — a P/E ratio only becomes meaningful when compared across sectors or against a market average. SQL aggregation is suited to this kind of cross-sectional screening, and this project served as a foundation for understanding the metrics that appear in equity research before moving to more dynamic time-series analysis.
+
+Completed 19/03/25
+
+---
